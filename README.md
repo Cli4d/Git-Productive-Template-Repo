@@ -6,7 +6,6 @@ This readme file explains a little bit about this system.
 ## Table of contents
 
 - [Git-Productive With GitHub](#git-productive-with-github)
-  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [GitHub Issues](#github-issues)
     - [Good Issue management](#good-issue-management)
@@ -30,7 +29,7 @@ It is a follow-up to the article published on the same. You can read the [articl
 
 Most of the content on this Readme will be beginner oriented. It aims to share more about issues, milestones, and projects with a guide on how to set up each of them. 
 
-If you are familiar with these tools, you can go ahead and utilize this template repo and tinker with those features to set up your productive system.
+If you are familiar with these tools, you can go ahead and utilize this template repo and tinker with those features to set up your own productivity system.
 
 ## GitHub Issues
 
