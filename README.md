@@ -1,48 +1,47 @@
 # Git-Productive With GitHub
 
-This is a template repo for showcasing the use of GitHub's project management tools (Projects, Issues, and Milestones) as a productivity tool.
+This is a guide to showcase the use of GitHub's project management tools (Projects, Issues, and Milestones) as a productivity tool.
 This readme file explains a little bit about this system.
 
 ## Table of contents
 
-- [Git-Productive With GitHub](#git-productive-with-github)
-  - [Introduction](#introduction)
-  - [GitHub Issues](#github-issues)
-    - [Good Issue management](#good-issue-management)
-  - [GitHub Projects](#github-projects)
-    - [Views and layouts](#views-and-layouts)
-    - [Iterations and Workflows](#iterations-and-workflows)
-  - [How to use this repository/system](#how-to-use-this-repositorysystem)
-    - [Creating task items](#creating-task-items)
-    - [Utilizing assignees, labels, and milestones](#utilizing-assignees-labels-and-milestones)
-      - [Creating labels](#creating-labels)
-      - [Assignees](#assignees)
-      - [Milestones](#milestones)
-    - [Projects](#projects)
-  - [Other Resources](#other-resources)
+- [Introduction](#introduction)
+- [GitHub Issues](#github-issues)
+  - [Good Issue management](#good-issue-management)
+- [GitHub Projects](#github-projects)
+  - [Views and layouts](#views-and-layouts)
+  - [Iterations and Workflows](#iterations-and-workflows)
+- [How to use this repository/system](#how-to-use-this-repositorysystem)
+  - [Creating task items](#creating-task-items)
+  - [Utilizing assignees, labels, and milestones](#utilizing-assignees-labels-and-milestones)
+    - [Creating labels](#creating-labels)
+    - [Assignees](#assignees)
+    - [Milestones](#milestones)
+  - [Projects](#projects)
+- [Other Resources](#other-resources)
   
 ## Introduction
 
-This repo was created to provide more direction in setting up a productivity system using GitHub's project management tools.
+Welcome to this repository, a guide designed to help beginners set up a productivity system using GitHub's project management tools.
 
-It is a follow-up to the article published on the same. You can read the [article]() to understand more about the system, why I chose it, and why you should try it.
+This is a follow-up to an article written on the same topic. I recommend starting with the article [linked here](), which provides an overview of the system, explains why it's worth considering, and outlines the benefits you can expect.
 
-Most of the content on this Readme will be beginner oriented. It aims to share more about issues, milestones, and projects with a guide on how to set up each of them. 
+This Readme primarily focuses on beginner-friendly content, offering guidance on setting up issues, milestones, and projects. It provides step-by-step instructions for each component.
 
-If you are familiar with these tools, you can go ahead and utilize this template repo and tinker with those features to set up your own productivity system.
+For those already familiar with these tools, feel free to utilize the template repository and explore the features to customize your productivity system.
 
 ## GitHub Issues
 
-To best understand how to maneuver around issues, let's first understand everything about them
-Now GitHub issues were the individual task items and they can be easily created in any GitHub repository like this one
+GitHub issues are individual task items that can be easily created in any GitHub repository, including this one. They consist of two main parts:
 
-It contains 2 main parts:
+1. **Title**  
+   The title should be clear and concise, providing a snapshot of the issue.
 
-1. **Title** <br/>
-   The title is usually clear and concise. And for our case, it would provide a clear picture of the
-2. **Body** <br/>
-   This is where the details go. The content here allows the use of [markdown syntax](https://www.markdownguide.org/getting-started/) which is just a special way of formatting texts in plain text documents.
-   However, those not familiar with markdown can use the options provided by GitHub’s User Interface.  
+2. **Body**  
+   The body contains the details of the issue. You can use [markdown syntax](https://www.markdownguide.org/getting-started/) to format the text, but if you're not familiar with markdown, GitHub's user interface provides options for formatting without coding knowledge. After creating it, you click on review to see how the body will look like when the issue is created.
+
+![github issue highlighting the title, body and markdown editor](https://github.com/Cli4d/Git-Productive-Template-Repo/assets/56266330/f026923f-91e7-4e67-a4b2-94581fcb6faa)
+
 
 ### Good Issue management
 
